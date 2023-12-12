@@ -1,0 +1,113 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.98",
+  "elapsed_seconds"    : 0.286019086837769,
+  "n_files"            : 97,
+  "n_lines"            : 4517,
+  "files_per_second"   : 339.138206028253,
+  "lines_per_second"   : 15792.6523363878},
+"XML" :{
+  "nFiles": 28,
+  "blank": 4,
+  "comment": 46,
+  "code": 960},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 536},
+"Dart" :{
+  "nFiles": 9,
+  "blank": 53,
+  "comment": 31,
+  "code": 507},
+"C++" :{
+  "nFiles": 8,
+  "blank": 115,
+  "comment": 56,
+  "code": 434},
+"CMake" :{
+  "nFiles": 7,
+  "blank": 82,
+  "comment": 110,
+  "code": 346},
+"GLSL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 124},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"C/C++ Header" :{
+  "nFiles": 9,
+  "blank": 57,
+  "comment": 69,
+  "code": 112},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 5,
+  "code": 101},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 29,
+  "code": 69},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Swift" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 7,
+  "code": 54},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 13,
+  "code": 38},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 82,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 23},
+"Java" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 5,
+  "code": 21},
+"Objective-C" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 13},
+"Properties" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Kotlin" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 456,
+  "comment": 481,
+  "code": 3580,
+  "nFiles": 97} }
